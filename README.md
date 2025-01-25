@@ -3,3 +3,4 @@
 2. AWS CloudFormation template - SecurityGroup, Ubuntu22.04 instance.
 3. Instalación de Tomcat en una instancia Ubuntu 22.04 usando la propiedad UserData en un template de AWS.
 4. Instalación de Tomcat en una instancia Ubuntu 22.04 usando la propiedad Parameters en un template de AWS.
+5. Creación de los scripts deploy.sh (creación de una Pila) y delete-stack.sh (eliminación de una Pila), ambos ejecutables desde AWS Cli.
