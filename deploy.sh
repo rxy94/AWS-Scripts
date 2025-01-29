@@ -7,7 +7,7 @@ STACK_NAME="MiNuevoStack"
 REGION="us-east-1"
 
 # Ruta al archivo de plantilla de CloudFormation
-TEMPLATE_FILE="parameters_template.yml"
+TEMPLATE_FILE="stack_hosted_zone.yml"
 
 # Tags para el stack
 TAGS="Name=MiNuevoStack"
